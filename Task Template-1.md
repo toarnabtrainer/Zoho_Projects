@@ -60,7 +60,7 @@ Here's a **Task Template for Manufacturing and Supplying a Product** with tasks,
 ### **Task 5: Inventory Management & Storage** *(Total: 6 days)*
    - **Sub-task 5.1: Store Finished Products** – *2 days*
      - Move finished products to storage or the warehouse.
-     - Ensure proper labeling and organization for easy retrieval.
+     - Ensure proper labelling and organization for easy retrieval.
    - **Sub-task 5.2: Update Inventory System** – *2 days*
      - Log finished products in the inventory management system.
      - Track stock levels to ensure sufficient quantities for supply.
@@ -69,7 +69,7 @@ Here's a **Task Template for Manufacturing and Supplying a Product** with tasks,
 
 ---
 
-### **Task 6: Order Fulfillment & Logistics** *(Total: 8 days)*
+### **Task 6: Order Fulfilment & Logistics** *(Total: 8 days)*
    - **Sub-task 6.1: Receive and Process Orders** – *2 days*
      - Receive purchase orders from customers.
      - Verify order details and prepare for dispatch.
