@@ -1,4 +1,4 @@
-Here's a **Task Template for Manufacturing and Supplying a Product** with tasks, sub-tasks, and suggested durations. The process is designed to cover everything from product design and manufacturing to shipping.
+Here's a **Task Template for Manufacturing and Supplying a Product** with tasks, sub-tasks, and suggested durations. The process is designed to cover everything from product design and manufacturing to shipping. 
 
 ### **Task List: Manufacturing and Supplying a Product**
 
