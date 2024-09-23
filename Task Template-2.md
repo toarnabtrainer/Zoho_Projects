@@ -1,4 +1,4 @@
-Below is the **Sales Lead Generation Task Template** with suggested durations for each task and sub-task. The durations can be adjusted based on the complexity and scale of your sales efforts.
+Below is the **Sales Lead Generation Task Template** with suggested durations for each task and sub-task. The durations can be adjusted based on the complexity and scale of your sales efforts. 
 
 ### **Task List: Sales Lead Generation Process**
 
