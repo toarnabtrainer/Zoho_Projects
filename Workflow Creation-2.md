@@ -20,9 +20,8 @@ This workflow will automate the task status update, so that whenever you assign 
    - **Rule Name:** Enter something like **"Change Status to In Progress"**.
    - **Module:** Choose **"Task"** as the module.
    - **Description:** Optionally, add a description like *"Automatically sets task status to In Progress when I assign or update a task."*
-![image](https://github.com/user-attachments/assets/b554994b-8d38-4ac8-8219-8ed46c6f6218)
-
-![image](https://github.com/user-attachments/assets/3a685b44-68f6-464d-a672-92756792f5ce)
+  
+![image](https://github.com/user-attachments/assets/f46a79c5-b271-49ec-a896-2b7467bc3ffd)
 
 5. **Set the Trigger:**
    - In the **"When to trigger this rule"** section, select **"On Task Creation"** and **"On Task Update"**.
@@ -35,15 +34,14 @@ This workflow will automate the task status update, so that whenever you assign 
      - **Value:** Set the value as your username (since you are the only user in this case).
    - This condition ensures the workflow applies only when tasks are assigned to you or updated by you.
 
-![image](https://github.com/user-attachments/assets/c7c1525a-cc2a-43ca-b0f1-6d272807a704)
+![image](https://github.com/user-attachments/assets/00527073-9bf0-4fb9-a59b-e247f5b5fb93)
 
 7. **Set the Action:**
    - Under **"Actions,"** choose **"Update Task"** as the action.
    - Select **"Status"** as the field to update.
    - Set the value to **"In Progress."**
   
-![image](https://github.com/user-attachments/assets/13038ddd-54ab-4666-9fc2-b9e7062c79f1)
-
+![image](https://github.com/user-attachments/assets/f0890d95-3010-4954-b9ae-6e6fb98b09b1)
 
 8. **Review and Save:**
    - Review the workflow rule to make sure everything is correct.
