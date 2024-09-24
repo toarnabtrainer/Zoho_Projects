@@ -51,7 +51,7 @@
   - **Subtask 5.1:** Develop training materials. (3 days)
   - **Subtask 5.2:** Conduct training sessions. (2 days)
 
-**Task List 2: Process Implementation**
+  **Task List 2: Process Implementation**
 | ID | Task Name                           | Associated Team      | Owner          | Status      | Tags                     | Start Date  | Due Date    | Duration   | Dependency       | Comments               | Priority | Created By    | % Completed | Completion Date | Work Hours (P) | Timelog Total (T) | Difference (P - T) | Billing Type   |
 |----|-------------------------------------|----------------------|----------------|-------------|--------------------------|-------------|-------------|------------|-------------------|------------------------|----------|----------------|-------------|------------------|------------------|--------------------|-------------------|----------------|
 | 6  | Implement New QC Processes          | Production            | John Smith     | Not Started | Implementation, Quality Control | 2024-11-03  | 2024-11-16  | 10 days    | 5                 | Roll out new processes | High     | Project Manager | 0%          |                  | 80               | 0                  | 80                | Hourly         |
@@ -82,3 +82,51 @@
 ---
 ### Summary
 This project plan outlines the key tasks involved in the "Quality Control Process Improvement" project for a manufacturing company. Each task is associated with relevant details such as team, owner, status, tags, dates, dependencies, comments, priority, creator, completion percentage, work hours, and billing type. The plan is designed to facilitate effective tracking and management of the project as it progresses.
+
+---
+
+### Project Plan: Quality Control Process Improvement
+#### **Phase 1: Assessment of Current QC Processes**
+**Task List 1: Current Process Audit**
+  * 1.Conduct Current Process Audit (5 days)
+	- **Subtask 1.1:** Gather documentation of existing QC processes. (3 days)
+	- **Subtask 1.2:** Interview QC staff and production teams. (2 days)
+
+**Task List 2: Analysis of Findings**
+  * 2.Analyze Audit Findings (3 days)
+	- **Subtask 2.1:** Compile data from the audit. (2 days)
+	- **Subtask 2.2:** Identify key areas for improvement. (1 days)
+
+#### **Phase 2: Development of Improvement Strategies**
+**Task List 1: Research Best Practices**
+  * 3.Research Best Practices (5 days)
+	- **Subtask 3.1:** Study current industry standards. (3 days)
+  	- **Subtask 3.2:** Identify successful methodologies. (2 days)
+
+**Task List 2: Develop Improvement Plan**
+  * 4.Develop QC Improvement Plan (5 days)
+	- **Subtask 4.1:** Draft the detailed improvement plan. (3 days)
+  	- **Subtask 4.2:** Review the plan with relevant stakeholders. (2 days)
+
+#### **Phase 3: Implementation of Improvement Strategies**
+**Task List 1: Staff Training**
+  * 5.Train Staff on New Processes (5 days)
+	- **Subtask 5.1:** Develop training materials. (3 days)
+  	- **Subtask 5.2:** Conduct training sessions. (2 days)
+
+**Task List 2: Process Implementation**
+  * 6.Implement New QC Processes (10 days)
+	- **Subtask 6.1:** Execute the rollout of new QC processes. (5 days)
+  	- **Subtask 6.2:** Monitor initial implementation and adjust as needed. (5 days)
+
+#### **Phase 4: Monitoring and Evaluation**
+**Task List 1: Performance Monitoring**
+  * 7.Monitor QC Process Performance (15 days)
+	- **Subtask 7.1:** Collect data on new QC processes. (8 days)
+  	- **Subtask 7.2:** Analyze data against KPIs. (7 days)
+
+**Task List 2: Reporting Improvements**
+  * 8.Report on Quality Control Improvements (5 days)
+	- **Subtask 8.1:** Draft the report summarizing the improvements. (2 days)
+  	- **Subtask 8.2:** Review the report with stakeholders. (3 days)
+---
