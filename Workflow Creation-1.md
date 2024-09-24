@@ -4,20 +4,23 @@ Here’s a step-by-step guide to creating a workflow in **Zoho Projects** for au
 
 #### **1. Access the Workflow Settings:**
    - Go to your **Zoho Projects** account.
-   - Select the project where you want to create the workflow.
-   - In the top-right corner, click the **gear icon (Settings)**.
-   - Under the **Automation** section, choose **Workflows**.
+   - In the top-right corner, click the **gear icon (Setup)**.
+   - Under the **Task Automation** section, choose **Workflow Rules**.
 
-#### **2. Create a New Workflow:**
-   - Click on **Add Workflow**.
+#### **2. Create a New Workflow Rule:**
+   - Click on **New Workflow Rule**.
    - You’ll be prompted to set the conditions and actions for the workflow.
+   - Give the Workflow name as **Task Deadline Reminder and Priority Management**.
 
 #### **3. Define the Workflow Trigger:**
    - Choose a **Trigger** for the workflow. In this case:
      - Set the trigger to be **"When a Task is Created"**.
-   
+     - Set the trigger to be **"When a Task is Updated"**.
+
+![image](https://github.com/user-attachments/assets/a7b51ee5-4fbc-46bd-bcf4-c32959654202)
+
 #### **4. Set Conditions:**
-   - Click on **Add Condition** to define the specific criteria for the workflow to run.
+   - Click on **Add Criteria** to define the specific criteria for the workflow to run.
    - Select the condition: **Priority**.
      - You can set it to one of three conditions:
        1. **If Priority is "High"**
@@ -43,6 +46,8 @@ Here’s a step-by-step guide to creating a workflow in **Zoho Projects** for au
    - Under **Actions**, choose **Send Notification**.
    - Select the recipients (e.g., the assigned team member and the project manager).
 
+![image](https://github.com/user-attachments/assets/bc2b2258-902c-4f63-927e-65a67e1fd269)
+
 ---
 
 ##### **For Medium-Priority Tasks:**
@@ -58,6 +63,8 @@ Here’s a step-by-step guide to creating a workflow in **Zoho Projects** for au
 3. **Send Notifications:**
    - Under **Actions**, choose **Send Notification**.
    - Send the notification to the assigned team member.
+
+![image](https://github.com/user-attachments/assets/d551037b-f91b-407a-b39b-e3a7fa0e1ae7)
 
 ---
 
@@ -75,11 +82,14 @@ Here’s a step-by-step guide to creating a workflow in **Zoho Projects** for au
    - Under **Actions**, choose **Send Notification**.
    - Notify the assigned team member about the task assignment.
 
+![image](https://github.com/user-attachments/assets/2c31e91e-7608-47d3-b805-4cbd5c5cbc99)
+
 ---
 
 #### **6. Save and Activate the Workflow:**
-   - After you have added all the conditions and actions for each priority level, click **Save**.
-   - Enable the workflow by switching the **Active** toggle.
+   - After you have added all the conditions and actions for each priority level, click **Save Rule**.
+   - Now come back to your project where you wan to activate your workflow rule.
+   - In the top right corner click on **Task Automation** and enable the workflow rule by switching it on.
 
 ---
 
