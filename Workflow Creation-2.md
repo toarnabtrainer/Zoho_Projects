@@ -20,6 +20,7 @@ This workflow will automate the task status update, so that whenever you assign 
    - **Rule Name:** Enter something like **"Change Status to In Progress"**.
    - **Module:** Choose **"Task"** as the module.
    - **Description:** Optionally, add a description like *"Automatically sets task status to In Progress when I assign or update a task."*
+![image](https://github.com/user-attachments/assets/b554994b-8d38-4ac8-8219-8ed46c6f6218)
 
 ![image](https://github.com/user-attachments/assets/3a685b44-68f6-464d-a672-92756792f5ce)
 
