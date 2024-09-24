@@ -1,4 +1,5 @@
-## Structured Project Plan for "Quality Control Process Improvement" Project, Organized with TaskLists, Tasks, and SubTasks under Phases.
+## Structured Project Plan for "Quality Control Process Improvement" Project.
+## Organized with TaskLists, Tasks, and SubTasks under Phases.
 ---
 ### Project Plan: Quality Control Process Improvement
 
