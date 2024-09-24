@@ -100,7 +100,7 @@ Here’s a step-by-step guide to creating a workflow in **Zoho Projects** for au
 ---
 
 ### **Review and Modify:**
-   - You can always go back to **Settings > Workflows** to review, edit, or disable the workflow if needed.
+   - You can always go back to **Setup > Workflow Rules** to review, edit, or disable the workflow if needed.
    - You can also create additional workflows for other aspects of project automation, like task status updates or project milestones.
 
 This workflow will streamline your task management process, ensuring tasks are assigned and handled according to their priority without manual intervention. Let me know if you need further clarification!
