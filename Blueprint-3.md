@@ -5,4 +5,6 @@
 
 * **Go to Setup -> Task Automation -> Blueprint -> New Blueprint ->**
 ![image](https://github.com/user-attachments/assets/c6a5e1ad-fa92-427b-aede-cf61dd83cfd8)
-* 
+* **Open -> [Begin Draft] -> Work in Progress**
+![image](https://github.com/user-attachments/assets/20683ba5-a587-4c0c-8878-9fcc987abc73)
+
