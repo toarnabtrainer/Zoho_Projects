@@ -9,3 +9,8 @@
 ![image](https://github.com/user-attachments/assets/20683ba5-a587-4c0c-8878-9fcc987abc73)
 * **Work in Progress -> [Send for Review] -> Internal Review**
 ![image](https://github.com/user-attachments/assets/601ac7f7-8e49-4d82-ba81-1a283fae222f)
+* **Internal Review -> [Sent to client] -> Waiting on Client**
+
+* **Waiting on Client -> [Approved] -> Ready to Publish**
+
+* **Ready to Publish -> [Published] -> Closed**
