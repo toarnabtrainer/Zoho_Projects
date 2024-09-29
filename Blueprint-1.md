@@ -22,8 +22,11 @@
 * **Now Create a new Task "[BP] Task-2" in the previous Project**
 ![image](https://github.com/user-attachments/assets/e01ec7d6-f4c0-41f0-9aac-5100598818c9)
 * **Now goto Task "Views" and click on "Begin Draft"**
-![image](https://github.com/user-attachments/assets/a3aa84e4-f10e-4004-9c60-6158596fbac1)
+![image](https://github.com/user-attachments/assets/b6abb26e-0320-4a30-9dba-1cb2a2f2d865)
 ![image](https://github.com/user-attachments/assets/2a7a7cda-004e-4f20-a54c-55ce531fa2bb)
 * **Now click on "Send for Review"**
-![image](https://github.com/user-attachments/assets/b34d258d-9661-471e-a90e-07cc25d4b93e)
+![image](https://github.com/user-attachments/assets/d53ccf67-b514-45a0-bd6d-ff07eeff4d31)
+![image](https://github.com/user-attachments/assets/f90538d0-3089-4ab7-bdda-3091f6030273)
+![image](https://github.com/user-attachments/assets/051d73c9-4b04-4746-90f3-8d1aa183c33c)
+
 
