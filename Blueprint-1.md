@@ -40,5 +40,6 @@
 ![image](https://github.com/user-attachments/assets/3bb03634-c281-45ea-bd74-ec593fbbf25e)
 * **While doing customizations we can select colors for "Approved" and "Rejected" as Green and Red respectively for better understanding**
 ![image](https://github.com/user-attachments/assets/88ad7e44-4363-4bc4-a2c5-1f603e21e10d)
+![image](https://github.com/user-attachments/assets/0ee9de4d-27ab-47ca-9d01-bb4072c28489)
 
 
