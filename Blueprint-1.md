@@ -14,8 +14,7 @@
 ![image](https://github.com/user-attachments/assets/881987e8-1108-4bb6-b087-90cf4bd3acfa)
 * **Waiting on Client -> [Rejected] -> Client Edits**
 ![image](https://github.com/user-attachments/assets/61572957-9051-43f0-8520-234304c29f22)
-
-
+![image](https://github.com/user-attachments/assets/03144c88-4303-4bdb-99de-768610d9ac5f)
 * **Waiting on Client -> [Approved] -> Ready to Publish**
 
 * **Ready to Publish -> [Published] -> Closed**
