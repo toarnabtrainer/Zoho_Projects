@@ -12,6 +12,10 @@
 ![image](https://github.com/user-attachments/assets/dfebebb8-7e88-4e27-baba-f0f761834b48)
 * **Internal Review -> [Send to Client] -> Waiting on Client**
 ![image](https://github.com/user-attachments/assets/881987e8-1108-4bb6-b087-90cf4bd3acfa)
+* **Waiting on Client -> [Rejected] -> Client Edits**
+![image](https://github.com/user-attachments/assets/61572957-9051-43f0-8520-234304c29f22)
+
+
 * **Waiting on Client -> [Approved] -> Ready to Publish**
 
 * **Ready to Publish -> [Published] -> Closed**
