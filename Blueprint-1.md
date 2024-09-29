@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/954b5e3b-4862-4df2-a9dc-a0e558b4399a)
 * **Publish the Blueprint**
 * **Now Create a new Task "[BP] Task-2" in the previous Project**
-![image](https://github.com/user-attachments/assets/18ca111c-e770-4ec8-a8b5-914198354b53)
+![image](https://github.com/user-attachments/assets/a4e26b16-ea96-43f1-a683-e1239cd047bf)
 * **Now goto Task "Views" and click on "Begin Draft"**
 ![image](https://github.com/user-attachments/assets/b6abb26e-0320-4a30-9dba-1cb2a2f2d865)
 ![image](https://github.com/user-attachments/assets/2a7a7cda-004e-4f20-a54c-55ce531fa2bb)
