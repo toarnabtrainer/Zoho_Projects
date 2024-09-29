@@ -39,3 +39,8 @@
 ![image](https://github.com/user-attachments/assets/044c5061-b662-4d9a-b476-b3f90736a108)
 * **Now click on "Published"**
 ![image](https://github.com/user-attachments/assets/f00a0d02-a0d6-4ac2-8cdc-d70c58734afc)
+![image](https://github.com/user-attachments/assets/3bb03634-c281-45ea-bd74-ec593fbbf25e)
+* **While doing customizations we can select colors for "Approved" and "Rejected" as Green and Red respectively for better understanding**
+![image](https://github.com/user-attachments/assets/88ad7e44-4363-4bc4-a2c5-1f603e21e10d)
+
+
